@@ -1,4 +1,4 @@
-# api-automation-sample2
+# api-postman-newman - sample2
 # API Automation Sample with Postman & Newman
 
 This is a basic API automation sample using Postman and Newman to test the **JSONPlaceholder** API.
