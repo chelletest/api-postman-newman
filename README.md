@@ -29,4 +29,7 @@ Validating JSON structure, reposne headers, status codes and performance
 
 - **API Test Collection**: `api-tests.postman_collection1.json`
 
+##  Licence   
+
+This project is licenced under the MIT Licence.
 ---
