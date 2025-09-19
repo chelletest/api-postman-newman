@@ -2,7 +2,7 @@
 # API Automation Sample with Postman & Newman
 
 This is a basic API automation sample using Postman and Newman to test the **JSONPlaceholder** API.
-Validating JSON structure, reposne headers, status codes and performance
+Validating JSON structure, reponse headers, status codes and performance
 
 ##  Description
 
